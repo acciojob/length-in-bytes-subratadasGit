@@ -1,7 +1,7 @@
 const byteSize = (str) => {
   // write your code here
-	let n = byteSize(str)
-		console.log(n)
+	let n = str.length ;
+	return n ;
 };
 
 // Do not change the code below
